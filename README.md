@@ -253,7 +253,3 @@ FOREIGN KEY pagamento(`idvenda`) REFERENCES venda (`idvenda`);
 #### Modelo Relaciona do banco de dados 
 
 !['modelo relacional'](modelo_relacional_casaoliveira.png)
-
-#### Casa oliveira sql
-
-!['casa oliveira sql'](casaoliveira.sql)
